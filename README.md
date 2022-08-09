@@ -1,4 +1,12 @@
 # movie_app
+//Icon And Name Added For The App
+![pic1](https://user-images.githubusercontent.com/99274860/183586600-db3313a1-d95e-467f-952f-8703176de68a.png)
+
+//Main Page
+![pic2](https://user-images.githubusercontent.com/99274860/183586638-a0a0f4a8-c12f-4bc4-b872-637a8949ade9.png)
+
+//New Route
+![pic3](https://user-images.githubusercontent.com/99274860/183586675-670c7d14-5ca2-46fd-b9a9-4c26dc0da19d.png)
 
 A new Flutter project.
 
